@@ -63,3 +63,10 @@
   width: 200px;
   line-height: 0.5;
 }
+.samosa:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+.samosa:active {
+  transform: scale(0.95);
+}
